@@ -9,5 +9,5 @@ class PoligonalModel:
     def __init__(self, textures, poligons):
         self.textures = list(textures)
         self.poligons = list(poligons)
-
+        poligons.append(Poligon)
 
