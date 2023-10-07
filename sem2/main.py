@@ -7,7 +7,7 @@ from StoneGenerator import StoneGenerator
 
 def main():
     lst = (GoldGenerator(), GemGenerator(), StoneGenerator())
-    for i in range(5]):
+    for i in range(5):
         choice(lst).open_reward()
 
 print(main())
