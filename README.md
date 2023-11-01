@@ -40,3 +40,6 @@ ISO/IEC/IEEE 29148:2018 Systems and software engineering — Life cycle processe
 * Разработать экранные формы интерфейса в https://www.figma.com/ или https://app.diagrams.net/.
 * Разработать полную ERD домена в https://www.dbdesigner.net/.
 * Доработать uml MVP.
+
+#### Урок 9. Способы организации передачи данных между компонентами приложения, протоколы и API. REST, gRPC, очереди
+* Доработать api, подробней в конце семинара
