@@ -54,3 +54,8 @@ ISO/IEC/IEEE 29148:2018 Systems and software engineering — Life cycle processe
 https://www.figma.com/
 https://app.diagrams.net/
 https://www.dbdesigner.net/
+
+### Урок 11. Сервис-ориентированные архитектуры
+Задание (см. Блок 2) : https://docs.google.com/document/d/1y5JSe2Vk64ed7c1IE6XRSYfMTzHGm7g2q-f0jRAo6eg/edit#heading=h.9uk02kr00e58
+
+Доработать пункты задания h, i, j, k, l.
